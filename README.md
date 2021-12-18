@@ -1,2 +1,2 @@
-# Kyro_store
+# Kyromall
 Java project
