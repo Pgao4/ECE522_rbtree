@@ -20,5 +20,6 @@
 		<module>kyromall-order</module>
 		<module>kyromall-product</module>
 		<module>kyromall-ware</module>
+		<module>renren-fast</module>
 	</modules>
 </project>
