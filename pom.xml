@@ -21,5 +21,7 @@
 		<module>kyromall-product</module>
 		<module>kyromall-ware</module>
 		<module>renren-fast</module>
-	</modules>
+		<module>renren-generator</module>
+        <module>kyromall-common</module>
+    </modules>
 </project>
